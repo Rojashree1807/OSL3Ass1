@@ -1,0 +1,11 @@
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\bin\Debug\net6.0\CalcLibAss1.deps.json
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\bin\Debug\net6.0\CalcLibAss1.dll
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\bin\Debug\net6.0\CalcLibAss1.pdb
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\obj\Debug\net6.0\CalcLibAss1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\obj\Debug\net6.0\CalcLibAss1.AssemblyInfoInputs.cache
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\obj\Debug\net6.0\CalcLibAss1.AssemblyInfo.cs
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\obj\Debug\net6.0\CalcLibAss1.csproj.CoreCompileInputs.cache
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\obj\Debug\net6.0\CalcLibAss1.dll
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\obj\Debug\net6.0\refint\CalcLibAss1.dll
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\obj\Debug\net6.0\CalcLibAss1.pdb
+E:\Phase3 Assignment\Ass1\CalcLibAss1\CalcLibAss1\obj\Debug\net6.0\ref\CalcLibAss1.dll
